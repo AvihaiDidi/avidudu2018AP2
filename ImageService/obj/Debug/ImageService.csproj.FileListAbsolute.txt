@@ -7,3 +7,13 @@ D:\DESKTOP STUFF GO HEER NOW\CDT\#unifolders\university\programing 2\ass1\ImageS
 D:\DESKTOP STUFF GO HEER NOW\CDT\#unifolders\university\programing 2\ass1\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.Cache
 D:\DESKTOP STUFF GO HEER NOW\CDT\#unifolders\university\programing 2\ass1\ImageService\ImageService\obj\Debug\ImageService.exe
 D:\DESKTOP STUFF GO HEER NOW\CDT\#unifolders\university\programing 2\ass1\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.ImageService.resources
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.exe
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\obj\Debug\ImageService.pdb
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\bin\Debug\ImageService.exe
+C:\Users\dudug\OneDrive\שולחן העבודה\מדמח\שנה ב\תכנות מתקדם 2\תרגילים\ex1\avidudu2018AP2-master\ImageService\bin\Debug\ImageService.pdb
